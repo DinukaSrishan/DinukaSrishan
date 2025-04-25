@@ -1,7 +1,7 @@
 ## Hi there 👋
 
  <h4>Passionate Web Developer</h4>
-👨‍💻 Interesting about: JavaScript, ReactJS, NestJS, HTML, CSS, MySQL
+👨‍💻 Interesting about: ReactJS, ReduxJs, JavaScript, NextJS, HTML, CSS, Bootstrap, MySQL
 <br/>
 📫 How to reach me: <a href = "mailto:dinukasrishan@gmail.com">Dinuka Srishan</a>
 <br/>
